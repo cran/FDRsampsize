@@ -1,0 +1,3 @@
+export(afdr,alpha.fdr,alpha.power,average.power,fdr.power,fdr.sampsize,pi.star,power.cox,power.hart,power.li,power.onesampt,power.oneway,power.ranksum,power.signtest,power.tcorr,power.twosampt)
+importFrom("stats","pf","pnorm","qf","qnorm")
+S3method(print,fdr.sampsize)
